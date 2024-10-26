@@ -13,9 +13,8 @@ class script(object):
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
-    ABOUT_TXT = """m<b><blockquote>⍟───[ MY ᴅᴇᴛᴀɪʟꜱ ]───⍟</blockquote>🥰
-    
-🤖 ᴍʏ ɴᴀᴍᴇ : {}
+    ABOUT_TXT = """1<b><blockquote>⍟───[ MY ᴅᴇᴛᴀɪʟꜱ ]───⍟</blockquote>🥰
+ 🤖 ᴍʏ ɴᴀᴍᴇ : {}
  👨‍💻 ᴄʀᴇᴀᴛᴏʀ : <a href='https://t.me/Morning006>Ⱡʉ₵ł₣ɇɽ 🇮🇳</a>
  📚 ʟɪʙʀᴀʀʏ : Who Care 
  📝 ʟᴀɴɢᴜᴀɢᴇ : Hindi
@@ -23,9 +22,8 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
  📡 ʜᴏsᴛᴇᴅ ᴏɴ  : My PC
  🥶 ʙᴜɪʟᴅ sᴛᴀᴛᴜs : Offline</b>""""""
 
-    CLONE_ABOUT_TXT = """m<b><blockquote>⍟───[ MY ᴅᴇᴛᴀɪʟꜱ ]───⍟</blockquote>🥰
-    
-🤖 ᴍʏ ɴᴀᴍᴇ : {}
+    CLONE_ABOUT_TXT = """1<b><blockquote>⍟───[ MY ᴅᴇᴛᴀɪʟꜱ ]───⍟</blockquote>🥰
+ 🤖 ᴍʏ ɴᴀᴍᴇ : {}
  👨‍💻 ᴄʀᴇᴀᴛᴏʀ : <a href='https://t.me/Morning006>Ⱡʉ₵ł₣ɇɽ 🇮🇳</a>
  📚 ʟɪʙʀᴀʀʏ : Who Care 
  📝 ʟᴀɴɢᴜᴀɢᴇ : Hindi
