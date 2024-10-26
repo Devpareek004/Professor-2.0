@@ -16,7 +16,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
     ABOUT_TXT = """<b><blockquote>⍟───[ MY ᴅᴇᴛᴀɪʟꜱ ]───⍟</blockquote>
  
  🤖 ᴍʏ ɴᴀᴍᴇ : {}
- 👨‍💻 ᴄʀᴇᴀᴛᴏʀ : <a href='https://t.me/Morning006>Ⱡʉ₵ł₣ɇɽ 🇮🇳</a>
+ 👨‍💻 ᴄʀᴇᴀᴛᴏʀ : <a href='https://t.me/Morning006'>Ⱡʉ₵ł₣ɇɽ 🇮🇳</a>
  📚 ʟɪʙʀᴀʀʏ : Who Care 
  📝 ʟᴀɴɢᴜᴀɢᴇ : Hindi
  ♻️ ᴅᴀᴛᴀ ʙᴀsᴇ : Free wala
@@ -26,7 +26,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
     CLONE_ABOUT_TXT = """<b><blockquote>⍟───[ ᴍʏ ᴀʙᴏᴜᴛ ]───⍟</blockquote>
 
  🤖 ᴍʏ ɴᴀᴍᴇ : {}
- 👨‍💻 ᴄʀᴇᴀᴛᴏʀ : <a href='https://t.me/Morning006>Ⱡʉ₵ł₣ɇɽ 🇮🇳</a>
+ 👨‍💻 ᴄʀᴇᴀᴛᴏʀ : <a href='https://t.me/Morning006'>Ⱡʉ₵ł₣ɇɽ 🇮🇳</a>
  📚 ʟɪʙʀᴀʀʏ : Who Care 
  📝 ʟᴀɴɢᴜᴀɢᴇ : Hindi
  ♻️ ᴅᴀᴛᴀ ʙᴀsᴇ : Free wala
