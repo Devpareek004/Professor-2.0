@@ -24,7 +24,7 @@ BOT_TOKEN = environ.get('BOT_TOKEN', "7453674332:AAEVJU6UJd7XL_JaUEboQMJgoRpqv83
 
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 1800))
-PICS = (environ.get('PICS', 'https://telegra.ph/file/08d9158a00799e5655062.jpg https://telegra.ph/file/7a5e6856b520ba484e3e1.jpg https://graph.org/file/35f4fb977ff94673cc3d9.jpg https://graph.org/file/3072bb86ff7679dd483b1.jpg https://graph.org/file/c82db22386ced00a2eaf9.jpg https://graph.org/file/03d13336cbeb1f4acfc82.jpg https://graph.org/file/e2cdd9e908934879913a4.jpg https://graph.org/file/23895d27cd9c06633698d.jpg https://graph.org/file/25ad3075ed47881e19105.jpg https://graph.org/file/5568fe5bac4ef8c774d04.jpg https://graph.org/file/cb2702764ae623a2587d9.jpg')).split() #SAMPLE PIC
+PICS = (environ.get('PICS', 'https://graph.org/file/1227f8a314530d91e5a9b-289b2534339edb24fb.jpg https://graph.org/file/764ce9eef21ee2a31c426-4f3f11c987af3e04d4.jpg https://graph.org/file/5597335f7dc05be9f90e6-ee953217244a2a9049.jpg https://graph.org/file/ccbfdebf1e2a151a69cd6-d789905aca0c5e3715.jpg https://graph.org/file/58cfe114fbb7d77cfcbe8-6e4ff50f2aa69022e1.jpg https://graph.org/file/5939025a779ace9530a04-a3e06357d75c531770.jpg')).split() #SAMPLE PIC
 NOR_IMG = environ.get("NOR_IMG", "https://graph.org/file/b69af2db776e4e85d21ec.jpg")
 MELCOW_VID = environ.get("MELCOW_VID", "https://t.me/howtoopnelink001/18")
 SPELL_IMG = environ.get("SPELL_IMG", "https://te.legra.ph/file/15c1ad448dfe472a5cbb8.jpg")
