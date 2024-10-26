@@ -13,16 +13,18 @@ class script(object):
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
-    ABOUT_TXT = """1<b><blockquote>⍟───[ MY ᴅᴇᴛᴀɪʟꜱ ]───⍟</blockquote>🥰
+    ABOUT_TXT = """<b><blockquote>⍟───[ MY ᴅᴇᴛᴀɪʟꜱ ]───⍟</blockquote>
+ 
  🤖 ᴍʏ ɴᴀᴍᴇ : {}
  👨‍💻 ᴄʀᴇᴀᴛᴏʀ : <a href='https://t.me/Morning006>Ⱡʉ₵ł₣ɇɽ 🇮🇳</a>
  📚 ʟɪʙʀᴀʀʏ : Who Care 
  📝 ʟᴀɴɢᴜᴀɢᴇ : Hindi
  ♻️ ᴅᴀᴛᴀ ʙᴀsᴇ : Free wala
  📡 ʜᴏsᴛᴇᴅ ᴏɴ  : My PC
- 🥶 ʙᴜɪʟᴅ sᴛᴀᴛᴜs : Offline</b>""""""
+ 🥶 ʙᴜɪʟᴅ sᴛᴀᴛᴜs : Offline</b>"""
 
-    CLONE_ABOUT_TXT = """1<b><blockquote>⍟───[ MY ᴅᴇᴛᴀɪʟꜱ ]───⍟</blockquote>🥰
+    CLONE_ABOUT_TXT = """<b><blockquote>⍟───[ ᴍʏ ᴀʙᴏᴜᴛ ]───⍟</blockquote>
+
  🤖 ᴍʏ ɴᴀᴍᴇ : {}
  👨‍💻 ᴄʀᴇᴀᴛᴏʀ : <a href='https://t.me/Morning006>Ⱡʉ₵ł₣ɇɽ 🇮🇳</a>
  📚 ʟɪʙʀᴀʀʏ : Who Care 
