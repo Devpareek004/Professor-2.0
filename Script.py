@@ -228,9 +228,10 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
+    CAPTION = """
+<b><a href="https://t.me/+XwzVvi5fd01iYTI1">{file_name}</a>
 
-<b> Size ⚙️: {file_size}</b>""" 
+▫️Backup Cʜᴀɴɴᴇʟ : <a href='https://t.me/Filmy_Duniya_Backcup'>Filmy Duniya Backup</a></b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
