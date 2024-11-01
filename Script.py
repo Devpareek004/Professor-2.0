@@ -229,7 +229,7 @@ Nᴀᴍᴇ - {}"""
     CAPTION = """
 <b><a href="https://t.me/+DkJ1W6LHiaxhZTg1">{file_name}</a>
 
-▫️Backup Cʜᴀɴɴᴇʟ : <a href='https://t.me/moviebakcup'>moviebakcup</a></b>"""
+▫️Backup Cʜᴀɴɴᴇʟ : <a href='https://t.me/MoviesEmpire_Backup'>MoviesEmpire_Backup</a></b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
