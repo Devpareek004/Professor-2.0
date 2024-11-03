@@ -74,7 +74,7 @@ PUBLIC_FILE_CHANNEL = environ.get('PUBLIC_FILE_CHANNEL', '') # Public Channel Us
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+2hgaKXlzZDE5ZGI1')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/+DkJ1W6LHiaxhZTg1')
 TUTORIAL = environ.get('TUTORIAL', 'https://t.me/howtoopnelink001/18')
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', '+KkiJxjEDnlU5MjJl') # Support Chat Link Without https:// or @
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 't.me/+qX3sF_Ytve9lNTU1') # Support Chat Link Without https:// or @
 
 # True Or False
 AI_SPELL_CHECK = bool(environ.get('AI_SPELL_CHECK', False))
