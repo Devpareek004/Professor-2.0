@@ -228,8 +228,7 @@ Nᴀᴍᴇ - {}"""
 
     CAPTION = """
 <b><a href="https://t.me/+DkJ1W6LHiaxhZTg1">{file_name}</a>
-
-▫️Backup Cʜᴀɴɴᴇʟ : <a href='https://t.me/MoviesEmpire_Backup'>MoviesEmpire_Backup</a></b>"""
+</b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
@@ -451,9 +450,9 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 📅 Dᴀᴛᴇ : <code>{}</code>
 ⏰ Tɪᴍᴇ : <code>{}</code>
 🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code>
-🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v2.7.1 [ Sᴛᴀʙʟᴇ ]</code></b>
+🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v2.7.1 [ Sᴛᴀʙʟᴇ ]</code>
 
-@Morning006"""
+@Morning006</b>"""
 
     LOGO = """
 
