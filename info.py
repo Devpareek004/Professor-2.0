@@ -71,10 +71,10 @@ CLONE_DATABASE_URI = environ.get('CLONE_DATABASE_URI', "") # Necessary If clone 
 PUBLIC_FILE_CHANNEL = environ.get('PUBLIC_FILE_CHANNEL', '') # Public Channel Username Without @ or without https://t.me/ and Bot Is Admin With Full Right.
 
 # Links
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+2hgaKXlzZDE5ZGI1')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+YURZZiRGA742ZTA9')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/+DkJ1W6LHiaxhZTg1')
 TUTORIAL = environ.get('TUTORIAL', 'https://t.me/howtoopnelink001/18')
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 't.me/+qX3sF_Ytve9lNTU1') # Support Chat Link Without https:// or @
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', '+qX3sF_Ytve9lNTU1') # Support Chat Link Without https:// or @
 
 # True Or False
 AI_SPELL_CHECK = bool(environ.get('AI_SPELL_CHECK', False))
@@ -133,7 +133,7 @@ YEARS = ["1900", "1991", "1992", "1993", "1994", "1995", "1996", "1997", "1998",
 
 
 # Online Stream and Download
-STREAM_MODE = bool(environ.get('STREAM_MODE', True)) # Set True or False
+STREAM_MODE = bool(environ.get('STREAM_MODE', False)) # Set True or False
 
 # If Stream Mode Is True Then Fill All Required Variable, If False Then Don't Fill.
 MULTI_CLIENT = False
