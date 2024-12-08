@@ -74,7 +74,7 @@ PUBLIC_FILE_CHANNEL = environ.get('PUBLIC_FILE_CHANNEL', '') # Public Channel Us
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+YURZZiRGA742ZTA9')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/+DkJ1W6LHiaxhZTg1')
 TUTORIAL = environ.get('TUTORIAL', 'https://t.me/howtoopnelink001/18')
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', '+qX3sF_Ytve9lNTU1') # Support Chat Link Without https:// or @
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', '+bZFqbCxTU0kzNTU1') # Support Chat Link Without https:// or @
 
 # True Or False
 AI_SPELL_CHECK = bool(environ.get('AI_SPELL_CHECK', False))
@@ -96,7 +96,7 @@ NO_RESULTS_MSG = bool(environ.get("NO_RESULTS_MSG", False))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
 # Token Verification Info :
-VERIFY = bool(environ.get('VERIFY', False))
+VERIFY = bool(environ.get('VERIFY', True))
 VERIFY_SECOND_SHORTNER = bool(environ.get('VERIFY_SECOND_SHORTNER', False))
 VERIFY_SHORTLINK_URL = environ.get('VERIFY_SHORTLINK_URL', 'publicearn.in')
 VERIFY_SHORTLINK_API = environ.get('VERIFY_SHORTLINK_API', '32e9a22f6dee68573f523e0aaf080bbf20d99672')
